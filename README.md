@@ -1,8 +1,7 @@
-
+# Live Link: https://forensic-ai-delta.vercel.app/
 # AI Forensic Investigator 🕵️
 
 An AI-powered misinformation detection and fact verification system that ingests multi-source data, extracts claims, cross-verifies against trusted sources, detects contradictions, and outputs a credibility score with explainable reasoning.
-#__ Live Link: https://forensic-ai-delta.vercel.app/
 
 ## Overview
 
