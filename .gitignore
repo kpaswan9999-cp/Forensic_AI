@@ -1,0 +1,29 @@
+# Secrets & Credentials
+.env
+.env*.local
+*.key
+
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Next.js Build Outputs
+.next/
+out/
+build/
+dist/
+
+# Python Build / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# OS Files
+.DS_Store
+Thumbs.db
